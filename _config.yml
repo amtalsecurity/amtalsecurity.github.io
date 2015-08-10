@@ -1,7 +1,7 @@
 # Site settings
-baseurl: /am/
+baseurl: /
 title: Amtal Security
-email: ronald@amtal.be
+email: ronald.at.amtal.be
 description: "Prevent and Detect Cybercrime attacks and bridging Governance with Security Operations: ISO27001 implementers, pentesting, open source solution integration"
 
 # Color settings (hex-codes without the leading hash-tag)
