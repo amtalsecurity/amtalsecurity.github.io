@@ -1,0 +1,28 @@
+---
+title: Open Source Security Solutions
+subtitle: Security Controls
+layout: default
+location: on-site
+modal-id: 4
+category: Security Controls
+description: "<div style='text-align:left'>Open source is often perceived as a scary monster for geeks. But let's face it, most of the best breed security solutions heavily rely on open source products customized with fancy interfaces with poor outsourced support. On top of this, many open sources products are heavily deployed in huge infrastructures and are therefore de facto supported by a huge and dynamic community always up to the latest threats.</div><p/>
+<div style='text-align:left'>
+Thanks to its broad experience with open source security solutions, Amtal can help you in implementing, deploying and maintaining security measures based on open sources products. This would help you to implement security controls in a cost-effective way. Moreover, you'll benefit from a tailored solution perfectly fitting with your infrastructure and supported by your favorite security service provider ;)
+</div><br/>
+<div style='text-align:left'>
+Just to name a few, here is a list of supported products we would be happy to implement for you:
+<ul>
+  <li>Stateful and Web Application Firewalls</li>
+  <li>Network Intrusion Detection Systems (N-IDS)</li>
+  <li>Host Intrusion Detection Systems (H-IDS)</li>
+  <li>Hardened System image with automated compliancy check</li>
+  <li>Hardened Web Server</li>
+  <li>VPN Gateway</li>
+  <li>and a Log Management Solution with perfectly integrated with the above mentioned products</li>
+</ul>
+</div>
+<div style='text-align:left'>
+If you would like to have more insight on the currently supported open source products, do not hesitate to contact us.
+</div>"
+
+---

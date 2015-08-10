@@ -1,0 +1,11 @@
+---
+title: Security Advisory
+subtitle: Security Controls
+location: on-site
+layout: default
+modal-id: 5
+category: Security Controls
+description: "<div style='text-align:left'>It is often difficult to choose between the different strategies to select or implement a required control or to build up your security practice. Every vendor has the \"best solution\" of the market. We can assist and support you to list out your technical requirements and the integration of a security solution in your infrastructure. As not affiliated with any specific security vendors, Amtal Security brings an unbiased insight in the selection and integration process.</div><p/>
+<div style='text-align:left'>On top of this, you sometimes might need to create and define security process and document their related procedures. We can support you with the definition of process as critical as: firewall rule implementation workflow, patch management process, PKI management,...</div>"
+
+---

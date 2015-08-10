@@ -1,0 +1,19 @@
+---
+title: ISO 27001 Implementation
+subtitle: Security Controls
+layout: default
+location: on-site/off-site
+modal-id: 6
+category: Security Controls
+description: "<div style='text-align:left'>Organization are increasingly required to implement a Information Security Management System (ISMS). ISO27001 is the de facto standard for most organization who wants to implement a state of the art ISMS. Developping this ISMS brings a new light to the different processes and controls in place in your organisation. It is a fantastic tool to identify the weaknesses in your controls and to be able to prioritize them. Unfortunately, this might exhaust your internal resources and distract you from the daily task and core business.</div>
+<br/>
+<div style='text-align:left'>
+Amtal's consultants are Certified ISO 27001 Lead Implementer and can therefore support you in some of the different tasks required by the implementation of an ISMS:
+<ul>
+  <li>Writing of ISMS documentation: Security Policies, Minimum Standards, Procedures,...</li>
+  <li>Advise on Security controls</li>
+  <li>Implementation of controls based on guidelines expressed in ISO 27002</li>
+</ul>
+</div>"
+
+---

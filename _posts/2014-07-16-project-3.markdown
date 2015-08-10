@@ -1,0 +1,12 @@
+---
+title: Firewall Review
+subtitle: Security Testing
+layout: default
+location: on-site
+modal-id: 3
+category: Security Testing
+description: "<div style='text-align:left'>Firewalls are your best friends and your worst enemies. It is your first line of defense but is also often your first audit item! Managing firewall configuration is complex task and you often end up with unreferenced, unknown, unused or duplicated rules. To help you to tackle this painful issue, Amtal can perform a regular review of your firewall infrastructure and their configuration. During this analysis, we will emphasis on reviewing the firewall rules management processes, the hardening of the firewall configuration itself and ensure that the rules are aligned with your security policies.</div>
+<div style='text-align:left'>
+On top of this, based on automated rules correlation tools or manual review, we will be able to spot overlapping, unused or unsecure rules.</div>"
+
+---

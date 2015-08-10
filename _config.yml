@@ -1,0 +1,44 @@
+# Site settings
+baseurl: /am/
+title: Amtal Security
+email: ronald@amtal.be
+description: "Prevent and Detect Cybercrime attacks and bridging Governance with Security Operations: ISO27001 implementers, pentesting, open source solution integration"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  #primary: fed136
+  #secondary: fec503  
+  #secondary-dark: 333
+  primary: FF6600
+  secondary: E65C00
+  secondary-dark: 669999
+
+# Team names, titles and social links
+people:
+- name: Ronald Bister
+  pic: 1
+  position: Principal Consultant
+  social:
+    - title: twitter
+      url: https://twitter.com/savon_noir
+    - title: github
+      url: https://github.com/savon-noir/
+    - title: linkedin
+      url: https://www.linkedin.com/profile/view?id=3390853
+    - title: envelope-o
+      url: mailto:ronald.at.amtal.be
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/savon_noir
+  - title: github
+    url: https://github.com/amtalsecurity/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Brussels, Belgium
+
+# Build settings
+markdown: kramdown
+permalink: pretty

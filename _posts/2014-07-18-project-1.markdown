@@ -1,0 +1,20 @@
+---
+title: Vulnerability Management
+subtitle: Security Testing
+layout: default
+location: on-site/off-site
+modal-id: 1
+category: Security Testing
+description: "<div style='text-align:left'>Consolidate your risks analysis with the help of our tailor made vulnerability assessments. Thanks to a considerable expertise in vulnerability management, Amtal can guide you in the identification and correction of the most critical and recurrent issues in your infrastructure and processes. The results of our testing combined with a contextualized analysis of the issues will enable you to define and plan the implementation cost-effective security controls and thereby reduce your attack surface. The key point for Amtal is to support our customer in enhancing the assessments results value by aiming to integrate these in a comprehensive risk management framework. Using standard scoring system we are able to contextualise a discovered issue and increase or lower the risk accordingly.</div><p/>
+<div style='text-align:left'>
+As Delivrable at the end of the activity, you will be provided with a technical report documenting each issue's:
+<ul>
+  <li>issue description and working</li>
+  <li>suggested mitigation solution or corrective control</li>
+  <li>additional references to issue (CAPEC, CVE, CWE, WASC or OWASP)</li>
+</ul>
+</div>
+<div style='text-align:left'>
+The report will be provided in variety of formats to enable you to import and integrate the assessment results in your risk management dashboards. Along with this, a management report will be provided in order to give our customer a high-level insight on their current security level and the most urgent threats to address. As additional service, Amatal can manage these assessments results for you. On a quarterly based schedule, you will be provided with a full and differential report that will highlight the improvements achieved from one quarter to another and the points of improvement for the next quarter.</div>"
+
+---

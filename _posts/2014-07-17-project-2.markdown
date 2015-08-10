@@ -1,0 +1,28 @@
+---
+title: Pentesting/Ethical Hacking
+subtitle: Security Testing
+layout: default
+modal-id: 2
+category: Security Testing
+location: on-site/off-site
+description: "<div style='text-align:left'>Vulnerability scanning and pentest are two significally different process serving the same goal but using specific methodologies and different perspectives. Both processes aim to reduce your attack surface and therefore lower your IT risk. On on hand, vulnerability Management is a process which's goal is to identify reccurent weaknesses in controls or vulnerabilities affecting your infrastructure globally. It evaluates your infrastructure's security and its components horizontally, at large scale. On the other hand, in penetration tests, a reduced scope size is identified and assessed bottom-up. It test your target of evaluation vertically. Vulnerability scans are automated process; a pentration test is a in-depth test mixing manual, static and dynamic analysis methods. The tools and methods used in a penetration test are the same as those used in the wild by hackers and malicious opponents. Such test provide you with an ideal view on how an attacker could infiltrate your internal network and get access to your critical data. On top of thise, these test could be executed from your different layers of security controls in order to evaluate your defense in-depth strategy.</div>
+<p/>
+<div style='text-align:left'>
+Penetration testing is a good preventive control which will help you in identifying:
+<ul>
+   <li>How your information systems react and resist hacker attacks</li>
+   <li>Security of your security layers</li>
+   <li>weaknesses in your applications or infrastructure that cannot be discovered automatically</li>
+   <li>lack of controls in your developpment life cycle</li>
+</ul>
+</div>
+<br/><div style='text-align:left'>
+Amtal Security propose penetration test activity aligned with industry best-practices and standards:
+<ul>
+   <li>Servers and infrastructure pentesting: we follow <a href='http://pentest-standarts.org'>Pentest-standards</a> framework
+   <li>Web Applications penetration test: we use the <a href='http://www.owasp.org'>OWASP</a> Testing Guide and OWASP ASVS.
+</ul>
+Do not hesitate to contact us for more information!
+</div>"
+
+---
