@@ -2,11 +2,10 @@
 title: Security Incident Reponse
 subtitle: Security Monitoring and Incident Response
 layout: default
-modal-id: 8
 location: on-site
+modal-id: 8
 category: Security Monitoring and Incident Response
 description: "<div style='text-align:left'>Once a security issue has been identified, it is urgent to take corrective measures to stop the bleeding, recover as quickly as possible and focus on your core business. To make this dream come true, you need solid processes and procedures. We can help you out in designing and documenting Security Incident Response procedures fitting with your organization and already implemented controls.</div><p/>
 <div style='text-align:left'>For this activity, we strongly rely on industry standards like NIST SP800-61 and ISO 27035 which would both perfectly fit into your ISO 27001 ISMS. Aside from this, trainings for threat identification and incident reponse could also be provided for your team in order to strenghten its efficiency in tight situations</div>"
-
 
 ---
